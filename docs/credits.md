@@ -1,4 +1,4 @@
 # Project credits
 
-* David J. Thomas - Project Management, Coding, Visualizations, and Analysis
-* Students of HIS4936, Hacking History: Programming Digital Scholarship
+* Lisa Morgan Thieryung - Project Management, Coding, Visualizations, and Analysis
+* Project for Hacking History: Programming Digital Scholarship
