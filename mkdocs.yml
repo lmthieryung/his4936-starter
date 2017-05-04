@@ -1,9 +1,22 @@
-site_name: HIS4936 Final Project Starter
+site_name: Palazzo Medici
 theme_dir: theme
 theme: null
 copyright: 'Copyright &copy; 2017 <a href="mailto:dave.a.base@gmail.com">David J. Thomas</a>'
-repo_url: https://github.com/lmthieryung/his4936-starter/
+repo_url: https://github.com/thePortus/his4936-starter
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
+- Historiography: 'history.md'
+- Other Investigations: 'ucsdproject.md'
+- Source Analysis: 'source-analysis.md'
+- Building the Palace: 'buildingthepalace.md'
+- Phenomenological Approach: 'Phenomenological Approach.md'
+- Use of Ancient Roman Standards: 'Ancient Roman Standards.md'
+- The Visitors: 'vicini.md'
+- First Hand Accounts: 'First Hand Accounts of the Vicini.md'
+- Donatello's David: 'david.md'
+- Other Visual Cues Designed for the Vicini: 'othercues.md'
+- Other Greek and Roman Depictions: 'OtherGreekandRomanDepictions.md'
+- Conclusions: 'Conclusion.md'
+- Bibliography: 'bib.md'
 - Credits: 'credits.md'
